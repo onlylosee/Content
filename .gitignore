@@ -3,3 +3,5 @@ node_modules/
 dist/
 build/
 web/node_modules/
+api/node_modules/
+smart-contracts/node_modules/
