@@ -2,3 +2,4 @@ node_modules/
 .next/
 dist/
 build/
+web/node_modules/
